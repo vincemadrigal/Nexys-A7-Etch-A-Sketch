@@ -32,8 +32,8 @@ It supports real-time drawing, erase/reset, and is structured for modular enhanc
 ## Tools & Requirements
 
 - **FPGA Board**: Nexys A7 (Xilinx Artix-7)
-- **HDL**: SystemVerilog, Vivado (specify version, e.g., 2022.2)
-- **Software**: C++ via Vitis (specify version)
+- **HDL**: SystemVerilog, Vivado (specify version, e.g., 2019.2)
+- **Software**: C++ via Vitis (2019.2)
 - **Interfaces**: VGA output, PS/2 keyboard
 
 ---
