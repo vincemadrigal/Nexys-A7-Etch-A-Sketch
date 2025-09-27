@@ -1,7 +1,9 @@
 # Nexys A7 Etch-A-Sketch
 
-A digital Etch-A-Sketch implemented on the **Nexys A7 FPGA**, built atop **Chu’s MMIO framework**.  
+A digital Etch-A-Sketch implemented on the Nexys A7 FPGA, built atop Chu’s MMIO framework.  
+
 This project uses SystemVerilog for the hardware side and a C++ application (via Vitis) for input control.  
+
 It supports real-time drawing, erase/reset, and is structured for modular enhancements (colors, brush sizes, save/load, etc.).
 
 ---
