@@ -7,8 +7,8 @@ It supports real-time drawing, erase/reset, and is structured for modular enhanc
 ---
 
 ## Repository Structure
-├── hardware/ ← SystemVerilog modules (VGA, pixel buffer, cursor logic, etc.)
-├── software/ ← Vitis C++ source (main app, drivers, headers)
+├── hardware/ ← SystemVerilog modules (VGA, pixel buffer, cursor logic, etc.) \n
+├── software/ ← Vitis C++ source (main app, drivers, headers)\n
 └── README.md
 
 
